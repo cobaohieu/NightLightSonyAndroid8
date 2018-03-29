@@ -15,6 +15,6 @@ type to cmd via code:
 
 
 # Sources:
-### https://forum.xda-developers.com/crossdevice-dev/sony-themes-apps/oreo-enable-night-light-tile-t3713021
-### https://forum.xda-developers.com/showthread.php?t=2588979
-### https://www.7-zip.org/download.html
+- https://forum.xda-developers.com/crossdevice-dev/sony-themes-apps/oreo-enable-night-light-tile-t3713021
+- https://forum.xda-developers.com/showthread.php?t=2588979
+- https://www.7-zip.org/download.html
