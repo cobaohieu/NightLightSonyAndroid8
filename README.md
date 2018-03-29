@@ -10,6 +10,10 @@ type to cmd via code:
 
 <code>adb shell cmd overlay enable --user 0 android.res.night && adb reboot<code>
 
+
+
+
+
 # Sources:
 <br>https://forum.xda-developers.com/crossdevice-dev/sony-themes-apps/oreo-enable-night-light-tile-t3713021
 <br>https://forum.xda-developers.com/showthread.php?t=2588979
