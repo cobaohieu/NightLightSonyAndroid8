@@ -7,6 +7,7 @@ Download file adb.exe V1.4.2 (source Below) and open with 7z, extract file to C:
 Go to C:\adb\ and right click + shift > Open command prompt here.
 
 type to cmd via code:
+<br>
 <code>adb shell cmd overlay enable --user 0 android.res.night && adb reboot<code>
 
 # Sources:
