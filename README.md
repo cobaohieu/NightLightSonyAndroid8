@@ -1,4 +1,4 @@
-# Night Light for Sony Phone on Android 8.0 Oreo
+# Enable Night Light for Sony Phone on Android 8.0 Oreo
 
 Download 7z (source Below) and setup.
 
