@@ -8,7 +8,6 @@ Go to C:\adb\ and right click + shift > Open command prompt here.
 
 type to cmd via code:
 
-<br>
 <code>adb shell cmd overlay enable --user 0 android.res.night && adb reboot<code>
 
 # Sources:
